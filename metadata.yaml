@@ -1,0 +1,33 @@
+_repo: Obras-poeticas-de-Gregorio-de-Mattos-Guerra-Tomo-I-b-precedidas-de-vida-do-poeta-pelo-licence__71724
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Rebello, Manuel Pereira
+    gutenberg_agent_id: '56356'
+    url: http://www.gutenberg.org/2009/agents/56356
+creator:
+  author:
+    agent_name: Matos, Gregório de
+    gutenberg_agent_id: '56355'
+    url: http://www.gutenberg.org/2009/agents/56355
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71724'
+language: pt
+pgterms:marc904: https://digital.bbm.usp.br/handle/bbm/3884
+pgterms:marc905: 20110102095544matos
+pgterms:marc906: '1882'
+pgterms:marc907: BR
+production_note: Rita Farinha, Alberto Manuel Brandão Simões and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by Brasiliana Digital.)
+publication_note: '  $aRio de Janeiro :$bTypographia Nacional, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Obras poeticas de Gregorio de Mattos Guerra - Tomo I : $b precedidas de vida
+  do poeta pelo licenceado Manuel Pereira Rebello'
+url: http://www.gutenberg.org/ebooks/71724
